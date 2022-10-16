@@ -1,16 +1,6 @@
 """
 QT Py 2040 design for loading WAV files from SD card and playing them back.
 Based on several great Adafruit samples on https://learn.adafruit.com/.
-
-Software Todo:
- - Add dynamic inventory from SD card .WAV files
- - Add NEO lighting pattern
- - Add more functions and a main function
-
-Hardware Todo:
- - Add a volume control potentiometer
- - Clean up Fritzing layout
- - Make PCB design for mounting hardware
 """
 
 import audiocore  # For audio playback
