@@ -19,11 +19,16 @@ Other critical references to complete the work include the following:
 ## QT Py 2040 Design Option
 This is the in progress design and was the proof of concept for loading and playing SD card WAV files.
 
+### Components
 Parts Used:
  - [Adafruit QT Py RP2040](https://www.adafruit.com/product/4900)
  - [Adafruit Micro SD SPI or SDIO Card Breakout Board - 3V ONLY!](https://www.adafruit.com/product/4682)
  - [Adafruit MAX98357 I2S Class-D Mono Amp](https://www.adafruit.com/product/3006)
  - 100K resistor to reduce gain on amp.
 
-## Feaather M4 Express Design Option
+
+### Layout
+![Fritzing Diagram](images/Pixel%20Plant%20QT%20Py%202040_bb.png)
+
+## Feather M4 Express Design Option
 Initial audio playback testing was completed on this hardware. Battery power options were also tested.
