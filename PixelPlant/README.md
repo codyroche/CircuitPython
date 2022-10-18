@@ -39,6 +39,7 @@ Software Todo:
  - Add dynamic inventory from SD card .WAV files
  - Add NEO lighting pattern
  - Add more functions and a main function
+ - Add power on function
 
 Hardware Todo:
  - Add a volume control potentiometer
