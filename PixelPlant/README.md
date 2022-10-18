@@ -42,5 +42,6 @@ Software Todo:
 
 Hardware Todo:
  - Add a volume control potentiometer
+ - Add hardware power button and light?
  - Clean up Fritzing layout
  - Make PCB design for mounting hardware
